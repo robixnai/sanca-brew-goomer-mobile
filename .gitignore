@@ -60,3 +60,8 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
+
+# XcodeGen (project is generated from project.yml)
+SancaBrew.xcodeproj/
+build/
+DerivedData/
